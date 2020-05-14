@@ -1,0 +1,74 @@
+body{
+	margin: 0;
+	font-family: Helvetica;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+header{
+	background-color: lightsteelblue;
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+header h1{
+	color: LEMONCHIFFON;
+	font-size: 50px;
+}
+
+header img{
+	border-radius: 300px;
+	width: 250px;
+	height: 350px;
+}
+
+main{
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 10px 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 30px;
+	color: darkblue;
+	margin: 40px 0 0;
+}
+
+a{
+	color: STEELBLUE;
+}
+
+a:hover{
+	color: LEMONCHIFFON;
+	background-color: navy;
+}
+
+footer{
+	background-color: lightsteelblue;
+	text-align: center;
+	padding: 20px;
+}
+
+footer p{
+	margin: 0;
+}
+
+footer a{
+	color: darkblue;
+}
+
+footer a:hover{
+	color: LEMONCHIFFON;
+	background-color: transparent;
+}
+
+p.caption{
+	color: royalblue;
+	font-style: italic;
+	margin-top: 0;
+}
